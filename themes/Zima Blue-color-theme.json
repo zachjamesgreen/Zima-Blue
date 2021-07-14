@@ -1253,7 +1253,7 @@
     },
     {
       "name": "ruby blue",
-      "scope": "constant.language.boolean.ruby,constant.language.nil.ruby,constant.numeric.ruby,constant.language.symbol.hashkey.ruby, punctuation.definition.constant.ruby",
+      "scope": "punctuation.definition.constant.hashkey.ruby,constant.language.boolean.ruby,constant.language.nil.ruby,constant.numeric.ruby,constant.language.symbol.hashkey.ruby, punctuation.definition.constant.ruby",
       "settings": {
         "foreground": "#42b3ff"
       }
