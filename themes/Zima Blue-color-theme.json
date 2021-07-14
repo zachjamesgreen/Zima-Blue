@@ -1231,6 +1231,34 @@
       }
     },
     {
+      "name": "js white",
+      "scope": "variable.other.object.js,variable.other.readwrite.js",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "html blue",
+      "scope": "entity.other.attribute-name.html",
+      "settings": {
+        "foreground": "#42b3ff"
+      }
+    },
+    {
+      "name": "ruby white",
+      "scope": "entity.name.type.class.ruby, entity.other.inherited-class.ruby, variable.other.readwrite.instance.ruby, support.class.ruby, variable.other.ruby",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "ruby blue",
+      "scope": "constant.language.boolean.ruby,constant.language.nil.ruby,constant.numeric.ruby,constant.language.symbol.hashkey.ruby, punctuation.definition.constant.ruby",
+      "settings": {
+        "foreground": "#42b3ff"
+      }
+    },
+    {
       "name": "rgb-value",
       "scope": "rgb-value",
       "settings": {
@@ -1885,8 +1913,8 @@
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderBackground": "#68217a",
     "statusBar.noFolderForeground": "#ffffff",
-    "statusBarItem.remoteBackground": "#112d40",
-    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteBackground": "#000000",
+    "statusBarItem.remoteForeground": "#42b3ff",
     "titleBar.activeBackground": "#0d0d0d",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#0d0d0d99",
@@ -2071,7 +2099,7 @@
     "peekViewTitle.background": "#0d0d0d",
     "peekViewTitleDescription.foreground": "#205a82",
     "peekViewTitleLabel.foreground": "#ffffff",
-    "icon.foreground": "#0d0d0d",
+    "icon.foreground": "#112d40",
     "checkbox.background": "#0d0d0d",
     "checkbox.foreground": "#ffffff",
     "checkbox.border": "#000000",
