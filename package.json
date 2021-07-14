@@ -1,0 +1,21 @@
+{
+    "name": "zima-blue",
+    "displayName": "Zima Blue",
+    "description": "Just a mostly blue dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zima Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zima Blue-color-theme.json"
+            }
+        ]
+    }
+}
